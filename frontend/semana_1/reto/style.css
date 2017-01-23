@@ -1,0 +1,9 @@
+body{margin: 0;padding: 0;background-color: #FFFFFF;color: #666;font-family: 'Lato', sans-serif;  }
+h2{margin: 0;padding: 0}
+.header{ position: relative;width: 100%;background-color: #ffe985;height: 50px;text-align: center;line-height: 50px}
+.nav{display:inline-block;position: relative;width: 29%;vertical-align: top}
+.section{display:inline-block;position: relative;width: 70%;border-left: 1px solid #eee;background-color: #f7f7f7}
+.section .article{margin: 20px;border-bottom: 1px solid #DEDEDE;height: 30px}
+.footer{position: relative;width: 100%;background-color: #ffe15d;height: 50px;text-align: center;line-height: 50px}
+
+.clearfix:after {  content: ".";  display: block;  height: 0;  clear: both;  visibility: hidden;  }
